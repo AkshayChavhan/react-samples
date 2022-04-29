@@ -1,0 +1,32 @@
+.display{
+    height:20vh;
+    width:50vw;
+    background-color: black;
+    color: white;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 13em;
+    background-color: rgb(221, 184, 136);
+    padding: 3em;
+    width: 30em;
+    margin-left: 12em;
+    /* margin-right: 12em; */
+    justify-content: center;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 5.5em;
+    height: 2.5em;
+    margin: 1em;
+}
+
+
